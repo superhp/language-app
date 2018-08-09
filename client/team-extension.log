@@ -21,3 +21,72 @@
 2018-08-08T11:34:12.337Z - debug:  [09592] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
 
 2018-08-08T11:34:12.352Z - error:  [09592] Execution of the TFVC command line failed unexpectedly.
+2018-08-08T19:10:21.868Z - info:   [13840] *** FOLDER: c:\Projects\language-app\client ***
+2018-08-08T19:10:21.868Z - info:   [13840] VSTSVSCode/1.136.0 (VSCode 1.25.1; Windows_NT 6.1.7601; Node 7.9.0)
+2018-08-08T19:10:21.868Z - debug:  [13840] Looking for an External Context at c:\Projects\language-app\client
+2018-08-08T19:10:21.868Z - debug:  [13840] No External Context at c:\Projects\language-app\client
+2018-08-08T19:10:21.884Z - debug:  [13840] Looking for TFVC repository at c:\Projects\language-app\client
+2018-08-08T19:10:21.884Z - debug:  [13840] TFVC Creating Tfvc object with localPath='undefined'
+2018-08-08T19:10:21.884Z - debug:  [13840] Using TFS proxy: 
+2018-08-08T19:10:21.884Z - debug:  [13840] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-08-08T19:10:21.884Z - debug:  [13840] TFVC Repository created with repositoryRootFolder='c:\Projects\language-app\client'
+2018-08-08T19:10:21.884Z - debug:  [13840] TFVC Repository.CheckVersion
+2018-08-08T19:10:21.884Z - debug:  [13840] TFVC: tf add -noprompt -?
+2018-08-08T19:10:21.899Z - debug:  [13840] TFVC: spawned new process (duration: 15ms)
+2018-08-08T19:10:21.899Z - debug:  [13840] TFVC: spawned new process (duration: 0ms)
+2018-08-08T19:10:22.441Z - debug:  [13840] TFVC: add exit code: 0 (duration: 557ms)
+2018-08-08T19:10:22.441Z - debug:  [13840] TFVC Minimum required version: 14.102.0
+2018-08-08T19:10:22.441Z - debug:  [13840] TFVC (TF.exe, TF.cmd) version: 15.123.27220.1
+2018-08-08T19:10:22.441Z - debug:  [13840] TFVC Repository.FindWorkspace with localPath='c:\Projects\language-app\client'
+2018-08-08T19:10:22.441Z - debug:  [13840] TFVC: tf workfold -noprompt c:\Projects\language-app\client
+2018-08-08T19:10:22.441Z - debug:  [13840] TFVC: spawned new process (duration: 0ms)
+2018-08-08T19:10:22.638Z - debug:  [13840] TFVC: workfold exit code: 100 (duration: 197ms)
+2018-08-08T19:10:22.655Z - debug:  [13840] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2018-08-08T19:10:22.657Z - error:  [13840] Execution of the TFVC command line failed unexpectedly.
+2018-08-09T05:37:50.133Z - info:   [07328] *** FOLDER: c:\Projects\language-app\client ***
+2018-08-09T05:37:50.140Z - info:   [07328] VSTSVSCode/1.136.0 (VSCode 1.25.1; Windows_NT 6.1.7601; Node 7.9.0)
+2018-08-09T05:37:50.142Z - debug:  [07328] Looking for an External Context at c:\Projects\language-app\client
+2018-08-09T05:37:50.143Z - debug:  [07328] No External Context at c:\Projects\language-app\client
+2018-08-09T05:37:50.173Z - debug:  [07328] Looking for TFVC repository at c:\Projects\language-app\client
+2018-08-09T05:37:50.174Z - debug:  [07328] TFVC Creating Tfvc object with localPath='undefined'
+2018-08-09T05:37:50.175Z - debug:  [07328] Using TFS proxy: 
+2018-08-09T05:37:50.175Z - debug:  [07328] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-08-09T05:37:50.179Z - debug:  [07328] TFVC Repository created with repositoryRootFolder='c:\Projects\language-app\client'
+2018-08-09T05:37:50.180Z - debug:  [07328] TFVC Repository.CheckVersion
+2018-08-09T05:37:50.182Z - debug:  [07328] TFVC: tf add -noprompt -?
+2018-08-09T05:37:50.345Z - debug:  [07328] TFVC: spawned new process (duration: 162ms)
+2018-08-09T05:37:50.376Z - debug:  [07328] TFVC: spawned new process (duration: 29ms)
+2018-08-09T05:37:51.547Z - debug:  [07328] TFVC: add exit code: 0 (duration: 1365ms)
+2018-08-09T05:37:51.549Z - debug:  [07328] TFVC Minimum required version: 14.102.0
+2018-08-09T05:37:51.549Z - debug:  [07328] TFVC (TF.exe, TF.cmd) version: 15.123.27220.1
+2018-08-09T05:37:51.550Z - debug:  [07328] TFVC Repository.FindWorkspace with localPath='c:\Projects\language-app\client'
+2018-08-09T05:37:51.551Z - debug:  [07328] TFVC: tf workfold -noprompt c:\Projects\language-app\client
+2018-08-09T05:37:51.558Z - debug:  [07328] TFVC: spawned new process (duration: 5ms)
+2018-08-09T05:37:52.515Z - debug:  [07328] TFVC: workfold exit code: 100 (duration: 964ms)
+2018-08-09T05:37:52.515Z - debug:  [07328] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2018-08-09T05:37:52.515Z - error:  [07328] Execution of the TFVC command line failed unexpectedly.
+2018-08-09T07:04:19.465Z - info:   [04324] *** FOLDER: c:\Projects\language-app\client ***
+2018-08-09T07:04:19.468Z - info:   [04324] VSTSVSCode/1.136.0 (VSCode 1.25.1; Windows_NT 6.1.7601; Node 7.9.0)
+2018-08-09T07:04:19.469Z - debug:  [04324] Looking for an External Context at c:\Projects\language-app\client
+2018-08-09T07:04:19.469Z - debug:  [04324] No External Context at c:\Projects\language-app\client
+2018-08-09T07:04:19.480Z - debug:  [04324] Looking for TFVC repository at c:\Projects\language-app\client
+2018-08-09T07:04:19.481Z - debug:  [04324] TFVC Creating Tfvc object with localPath='undefined'
+2018-08-09T07:04:19.481Z - debug:  [04324] Using TFS proxy: 
+2018-08-09T07:04:19.481Z - debug:  [04324] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-08-09T07:04:19.484Z - debug:  [04324] TFVC Repository created with repositoryRootFolder='c:\Projects\language-app\client'
+2018-08-09T07:04:19.485Z - debug:  [04324] TFVC Repository.CheckVersion
+2018-08-09T07:04:19.487Z - debug:  [04324] TFVC: tf add -noprompt -?
+2018-08-09T07:04:19.566Z - debug:  [04324] TFVC: spawned new process (duration: 78ms)
+2018-08-09T07:04:19.571Z - debug:  [04324] TFVC: spawned new process (duration: 4ms)
+2018-08-09T07:04:20.563Z - debug:  [04324] TFVC: add exit code: 0 (duration: 1076ms)
+2018-08-09T07:04:20.565Z - debug:  [04324] TFVC Minimum required version: 14.102.0
+2018-08-09T07:04:20.566Z - debug:  [04324] TFVC (TF.exe, TF.cmd) version: 15.123.27220.1
+2018-08-09T07:04:20.567Z - debug:  [04324] TFVC Repository.FindWorkspace with localPath='c:\Projects\language-app\client'
+2018-08-09T07:04:20.568Z - debug:  [04324] TFVC: tf workfold -noprompt c:\Projects\language-app\client
+2018-08-09T07:04:20.574Z - debug:  [04324] TFVC: spawned new process (duration: 5ms)
+2018-08-09T07:04:21.088Z - debug:  [04324] TFVC: workfold exit code: 100 (duration: 520ms)
+2018-08-09T07:04:21.089Z - debug:  [04324] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2018-08-09T07:04:21.090Z - error:  [04324] Execution of the TFVC command line failed unexpectedly.
